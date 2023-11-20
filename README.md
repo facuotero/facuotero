@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**facuotero/facuotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Facundo Otero Rimini, nacido en Córdoba, Argentina. 
+Qué hago? Soy Full Stack Developer, actualmente me encuentro realizando proyectos de desarrollo de manera freelancer buscando crecer tanto personalmente como en el mundo de la tecnología. 
+Tecnologías: 
+_ PostgreSQL 
+_ Sequelize
+_ Express
+_ NodeJs
+_ React
+_ Redux
+_ NextJs
+_ CSS modular
+_ TailwindCSS
+Qué busco? Crecer profesionalmente y como persona
+Cómo contactarme? facurimini@gmail.com
