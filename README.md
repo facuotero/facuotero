@@ -10,5 +10,5 @@ _ Redux
 _ NextJs
 _ CSS modular
 _ TailwindCSS
-Qué busco? Crecer profesionalmente y como persona
+Qué busco? Crecer profesionalmente y como persona.
 Cómo contactarme? facurimini@gmail.com
