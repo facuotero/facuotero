@@ -1,14 +1,23 @@
-Facundo Otero Rimini, nacido en Córdoba, Argentina. 
-Qué hago? Soy Full Stack Developer, actualmente me encuentro realizando proyectos de desarrollo de manera freelancer buscando crecer tanto personalmente como en el mundo de la tecnología. 
-Tecnologías: 
-_ PostgreSQL 
-_ Sequelize
-_ Express
-_ NodeJs
-_ React
-_ Redux
-_ NextJs
-_ CSS modular
-_ TailwindCSS
-Qué busco? Crecer profesionalmente y como persona.
-Cómo contactarme? facurimini@gmail.com
+Facundo Otero Rimini
+Born in Córdoba, Argentina.
+
+What do I do?
+I'm a Full Stack Developer currently working on freelance projects. I'm passionate about leveraging technology to solve real-world problems and continuously striving to grow both personally and professionally.
+
+Technologies:
+
+PostgreSQL
+Sequelize
+Express
+Node.js
+React
+Redux
+Next.js
+Modular CSS
+Tailwind CSS
+What am I looking for?
+I'm seeking opportunities to further develop my skills and contribute to innovative projects that make a positive impact.
+
+How to contact me?
+Email: facurimini@gmail.com
+Linkedin: linkedin.com/in/facundo-otero-rimini-96a459224
