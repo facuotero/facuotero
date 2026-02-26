@@ -2,18 +2,8 @@
 </div>  
   
 
-### <div align="center">I'm Facundo Otero, a full-time full-stack freelance developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Facundo Otero, a full-stack mobile/web developer 👨‍💻 🚀</div>  
   
-
--  👾 I’m constantly learning new technologies to improve myself.  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- 🤹‍♂️ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
